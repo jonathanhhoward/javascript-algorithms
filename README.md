@@ -1,3 +1,3 @@
-# javascript-algorithms
+# Javascript Algorithms
 
-Projects for freeCodeCamp.
+Javascript Algorithms and Data Structures projects for freeCodeCamp.
